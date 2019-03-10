@@ -1,9 +1,9 @@
 
-<html><body><img src="https://robohash.org/YOUR-TEXT.png?size=100x100"></body></html>
+<html><body><img src="https://robohash.org/YOUR-TEXT.png?size=100x100"><br></body></html>
 
 
 ### Activité 1. Regardez cette vidéo pour répondre aux questions suivantes
-<BR>
+
 
 <A href="suite.html">Suite</A><BR>
 
@@ -11,27 +11,33 @@
 <html lang="fr">
   <body>   
       <iframe width="600" height="400" src="https://www.youtube-nocookie.com/embed/xhjgvhZQ-j8" frameborder="0" allow="accelerometer;       autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <br>
   </body>
 </html>
+
+
+### Activité 2. Decouvrir l'environnement
 
 <html lang="fr">
   <body>
 <div class="sketchfab-embed-wrapper"><iframe width="600" height="400" src="https://sketchfab.com/models/5db01a6d5e89455d94f169a7e5035a0b/embed?autospin=0.2&amp;autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </div>
+    <br>
   </body>
 </html>
+
+
+### Activité 3. Ecrire un premier programme
 
 <html lang="fr">
-  <body>
+<head>
+  <meta charset="utf-8">
 
-<div class="sketchfab-embed-wrapper"><iframe width="600" height="400" src="https://sketchfab.com/models/56ce2523e204473786f0fbd36307f4a5/embed?autostart=1&amp;camera=0&amp;preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <title>Theme 1</title>
+  <meta name="description" content="Internet">
+  <meta name="author" content="SR">
 
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/3d-models/samsung-s5-56ce2523e204473786f0fbd36307f4a5?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Samsung S5</a>
-    by <a href="https://sketchfab.com/aisaac?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Shadow Mine</a>
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
-</div>
-  </body>
-</html>
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
