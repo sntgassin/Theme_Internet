@@ -6,7 +6,7 @@ Thème 1
 <html>
   <body>
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/56ce2523e204473786f0fbd36307f4a5/embed?autospin=0.2&amp;autostart=1&amp;preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/56ce2523e204473786f0fbd36307f4a5/embed?autostart=1&amp;camera=0&amp;preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/3d-models/samsung-s5-56ce2523e204473786f0fbd36307f4a5?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Samsung S5</a>
