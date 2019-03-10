@@ -11,7 +11,13 @@ Thème 1
   </body>
 </html>
 
+<html lang="fr">
+  <body>
+<div class="sketchfab-embed-wrapper"><iframe width="800" height="600" src="https://sketchfab.com/models/5db01a6d5e89455d94f169a7e5035a0b/embed?autospin=0.2&amp;autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+</div>
+  </body>
+</html>
 
 <html lang="fr">
   <body>
