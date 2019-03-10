@@ -1,5 +1,5 @@
 ## Theme_Internet
-<html><body><img src="https://robohash.org/YOUR-TEXT.png"></body></html>
+<html><body><img src="https://robohash.org/YOUR-TEXT.png?size=100x100"></body></html>
 
 Thème 1
 
@@ -14,7 +14,7 @@ Thème 1
 <html lang="fr">
   <body>
     
-    <img src="https://robohash.org/YOUR-TEXT.png?size=200x200">
+    
     
     
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xhjgvhZQ-j8" frameborder="0" allow="accelerometer;       autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
