@@ -1,23 +1,16 @@
-## Theme_Internet
+
 <html><body><img src="https://robohash.org/YOUR-TEXT.png?size=100x100"></body></html>
 
-Thème 1
-
-<i class="fas fa-laptop-code"></i>
 
 ### Activité 1. Regardez cette vidéo pour répondre aux questions suivantes
-
+<BR>
 
 <A href="suite.html">Suite</A><BR>
 
 
 <html lang="fr">
-  <body>
-    
-    
-    
-    
-    <iframe width="600" height="400" src="https://www.youtube-nocookie.com/embed/xhjgvhZQ-j8" frameborder="0" allow="accelerometer;       autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <body>   
+      <iframe width="600" height="400" src="https://www.youtube-nocookie.com/embed/xhjgvhZQ-j8" frameborder="0" allow="accelerometer;       autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </body>
 </html>
 
