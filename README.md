@@ -5,6 +5,10 @@ Thème 1
 
 ### Activité 1. Regardez cette vidéo pour répondre aux questions suivantes
 
+
+<A href="suite.html">Suite</A><BR>
+
+
 <html lang="fr">
   <body>
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xhjgvhZQ-j8" frameborder="0" allow="accelerometer;       autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
